@@ -10,6 +10,6 @@
     "en_EN": "Test hyperapp applications"
   },
   "files": [
-    "main.js"
+    "index.js"
   ]
 }
